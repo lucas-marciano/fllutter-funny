@@ -1,4 +1,4 @@
-# startup_namer
+# flutter_funny
 
 A new Flutter project.
 
